@@ -90,7 +90,7 @@ section{
 /* Hero Style Start */
 
 .hero{
-    background-image: url("/Develop/assets/images/image-1.jpeg");
+    background-image: url("../images/image-1.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -148,7 +148,7 @@ section{
 }
 /* Adding background images to the work */
 .project-one {
-    background-image: url("/Develop/assets/images/hero-bg.jpg");
+    background-image: url("./Develop/assets/images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -158,7 +158,7 @@ section{
 }
 
 .project-two {
-    background-image: url("/Develop/assets/images/javascript.jpeg");
+    background-image: url("./Develop/assets/images/javascript.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -168,7 +168,7 @@ section{
 }
 
 .project-three {
-    background-image: url("/Develop/assets/images/node-js.jpeg");
+    background-image: url("./Develop/assets/images/node-js.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -178,7 +178,7 @@ section{
 }
 
 .project-four {
-    background-image: url("/Develop/assets/images/SQL.jpeg");
+    background-image: url("./Develop/assets/images/SQL.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -188,7 +188,7 @@ section{
 }
 
 .project-five {
-    background-image: url("/Develop/assets/images/NoSQL.jpeg");
+    background-image: url("./Develop/assets/images/NoSQL.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
